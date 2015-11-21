@@ -1,0 +1,51 @@
+[Wed Sep 02 17:58:08.112550 2015] [authz_core:error] [pid 9952] [client 128.206.251.191:16951] AH01630: client denied by server configuration: /home/jdmnr9/jasonmcquinn.cloudapp.net/public_html/
+[Wed Sep 02 18:03:06.611217 2015] [authz_core:error] [pid 9950] [client 128.206.251.191:28846] AH01630: client denied by server configuration: /home/jdmnr9/jasonmcquinn.cloudapp.net/public_html/
+[Wed Sep 02 18:05:29.694380 2015] [authz_core:error] [pid 1184] [client 128.206.251.191:11335] AH01630: client denied by server configuration: /home/jdmnr9/jasonmcquinn.cloudapp.net/public_html/
+[Wed Sep 02 18:07:43.531402 2015] [authz_core:error] [pid 1475] [client 128.206.251.191:29976] AH01630: client denied by server configuration: /home/jdmnr9/jasonmcquinn.cloudapp.net/public_html/
+[Wed Sep 02 18:09:32.157276 2015] [authz_core:error] [pid 1476] [client 128.206.251.191:51081] AH01630: client denied by server configuration: /home/jdmnr9/jasonmcquinn.cloudapp.net/public_html/
+[Wed Sep 02 18:14:36.929730 2015] [authz_core:error] [pid 1541] [client 128.206.251.191:17316] AH01630: client denied by server configuration: /home/jdmnr9/jasonmcquinn.cloudapp.net/public_html/
+[Wed Sep 02 18:14:38.843024 2015] [authz_core:error] [pid 1541] [client 128.206.251.191:17316] AH01630: client denied by server configuration: /home/jdmnr9/jasonmcquinn.cloudapp.net/public_html/
+[Thu Sep 10 03:27:56.471445 2015] [autoindex:error] [pid 27802] [client 173.26.240.155:60745] AH01276: Cannot serve directory /home/jdmnr9/jasonmcquinn.cloudapp.net/public_html/nothere/: No matching DirectoryIndex (index.html,index.cgi,index.pl,index.php,index.xhtml,index.htm) found, and server-generated directory index forbidden by Options directive
+[Thu Sep 10 03:34:40.813581 2015] [autoindex:error] [pid 27913] [client 173.26.240.155:60761] AH01276: Cannot serve directory /home/jdmnr9/jasonmcquinn.cloudapp.net/public_html/nothere/: No matching DirectoryIndex (index.html,index.cgi,index.pl,index.php,index.xhtml,index.htm) found, and server-generated directory index forbidden by Options directive
+[Thu Sep 10 03:34:47.318546 2015] [autoindex:error] [pid 27915] [client 173.26.240.155:60762] AH01276: Cannot serve directory /home/jdmnr9/jasonmcquinn.cloudapp.net/public_html/nothere/: No matching DirectoryIndex (index.html,index.cgi,index.pl,index.php,index.xhtml,index.htm) found, and server-generated directory index forbidden by Options directive
+[Thu Sep 10 03:34:49.360664 2015] [autoindex:error] [pid 27915] [client 173.26.240.155:60762] AH01276: Cannot serve directory /home/jdmnr9/jasonmcquinn.cloudapp.net/public_html/nothere/: No matching DirectoryIndex (index.html,index.cgi,index.pl,index.php,index.xhtml,index.htm) found, and server-generated directory index forbidden by Options directive
+[Mon Sep 14 19:37:39.281918 2015] [:error] [pid 53189] [client 104.128.144.131:45071] script '/home/jdmnr9/jasonmcquinn.cloudapp.net/public_html/redirect.php' not found or unable to stat
+[Sat Sep 19 17:01:11.006700 2015] [:error] [pid 50533] [client 178.239.50.139:31523] script '/home/jdmnr9/jasonmcquinn.cloudapp.net/public_html/moadmin.php' not found or unable to stat
+[Sun Sep 27 15:32:16.981241 2015] [core:error] [pid 23020] [client 109.225.124.101:39852] AH00126: Invalid URI in request GET HTTP/1.1 HTTP/1.1
+[Sun Sep 27 23:25:06.866956 2015] [:error] [pid 23374] [client 173.193.22.6:57696] script '/home/jdmnr9/jasonmcquinn.cloudapp.net/public_html/xmlrpc.php' not found or unable to stat
+[Mon Sep 28 03:04:48.231067 2015] [:error] [pid 23020] [client 198.204.252.252:30878] script '/home/jdmnr9/jasonmcquinn.cloudapp.net/public_html/xmprpc.php' not found or unable to stat
+[Tue Sep 29 21:59:54.464704 2015] [:error] [pid 25461] [client 159.8.85.173:53085] script '/home/jdmnr9/jasonmcquinn.cloudapp.net/public_html/xmlrpc.php' not found or unable to stat
+[Wed Sep 30 13:41:17.127567 2015] [:error] [pid 22737] [client 169.50.3.171:57764] script '/home/jdmnr9/jasonmcquinn.cloudapp.net/public_html/xmlrpc.php' not found or unable to stat
+[Wed Sep 30 19:34:07.250921 2015] [:error] [pid 23020] [client 169.50.3.171:34440] script '/home/jdmnr9/jasonmcquinn.cloudapp.net/public_html/xmlrpc.php' not found or unable to stat
+[Tue Oct 06 18:30:51.871048 2015] [:error] [pid 35156] [client 104.210.15.134:1048] script '/home/jdmnr9/jasonmcquinn.cloudapp.net/public_html/xmlrpc.php' not found or unable to stat
+[Sat Oct 17 03:37:48.858546 2015] [:error] [pid 1859] [client 104.128.144.131:54269] script '/home/jdmnr9/jasonmcquinn.cloudapp.net/public_html/redirect.php' not found or unable to stat
+[Tue Oct 20 09:04:11.494948 2015] [:error] [pid 9112] [client 185.25.151.159:59387] script '/home/jdmnr9/jasonmcquinn.cloudapp.net/public_html/testproxy.php' not found or unable to stat
+[Tue Oct 20 18:26:35.333887 2015] [core:error] [pid 9114] [client 45.55.38.33:58323] AH00126: Invalid URI in request GET HTTP/1.1 HTTP/1.1
+[Thu Oct 22 23:55:37.667997 2015] [:error] [pid 10734] [client 185.25.151.159:48644] script '/home/jdmnr9/jasonmcquinn.cloudapp.net/public_html/testproxy.php' not found or unable to stat
+[Fri Oct 23 00:06:38.680738 2015] [:error] [pid 10736] [client 185.49.14.190:54613] script '/home/jdmnr9/jasonmcquinn.cloudapp.net/public_html/testproxy.php' not found or unable to stat
+[Fri Oct 23 14:54:39.742506 2015] [:error] [pid 9114] [client 185.25.151.159:42278] script '/home/jdmnr9/jasonmcquinn.cloudapp.net/public_html/testproxy.php' not found or unable to stat
+[Sat Oct 24 05:26:05.210185 2015] [core:error] [pid 8372] [client 84.205.160.1:55925] AH00126: Invalid URI in request GET HTTP/1.1 HTTP/1.1
+[Sun Oct 25 15:12:24.828365 2015] [core:error] [pid 24098] [client 121.119.188.191:50128] AH00126: Invalid URI in request GET HTTP/1.1 HTTP/1.1
+[Mon Oct 26 03:25:54.724805 2015] [:error] [pid 24309] [client 185.25.148.240:35397] script '/home/jdmnr9/jasonmcquinn.cloudapp.net/public_html/testproxy.php' not found or unable to stat
+[Mon Oct 26 04:21:19.489813 2015] [core:error] [pid 24097] [client 124.2.53.233:34480] AH00126: Invalid URI in request GET HTTP/1.1 HTTP/1.1
+[Mon Oct 26 06:35:46.330717 2015] [:error] [pid 24098] [client 94.102.53.208:35724] script '/home/jdmnr9/jasonmcquinn.cloudapp.net/public_html/wp-login.php' not found or unable to stat
+[Wed Oct 28 12:23:45.833210 2015] [:error] [pid 24309] [client 185.49.14.190:35955] script '/home/jdmnr9/jasonmcquinn.cloudapp.net/public_html/testproxy.php' not found or unable to stat
+[Thu Oct 29 11:56:59.567908 2015] [:error] [pid 24096] [client 185.25.148.240:58362] script '/home/jdmnr9/jasonmcquinn.cloudapp.net/public_html/testproxy.php' not found or unable to stat
+[Sun Nov 01 01:49:42.787761 2015] [core:error] [pid 24898] [client 101.255.63.243:54501] AH00126: Invalid URI in request GET HTTP/1.1 HTTP/1.1
+[Mon Nov 02 01:38:44.496565 2015] [:error] [pid 38622] [client 185.25.151.159:57213] script '/home/jdmnr9/jasonmcquinn.cloudapp.net/public_html/testproxy.php' not found or unable to stat
+[Mon Nov 02 06:35:42.071645 2015] [core:error] [pid 39901] [client 213.192.228.3:49461] AH00126: Invalid URI in request GET HTTP/1.1 HTTP/1.1
+[Fri Nov 06 02:07:47.674055 2015] [:error] [pid 38623] [client 91.196.50.33:48006] script '/home/jdmnr9/jasonmcquinn.cloudapp.net/public_html/testproxy.php' not found or unable to stat
+[Fri Nov 06 14:02:23.390896 2015] [core:error] [pid 41001] [client 195.154.80.205:35986] AH00126: Invalid URI in request GET HTTP/1.1 HTTP/1.1
+[Fri Nov 06 14:47:04.725603 2015] [core:error] [pid 41002] [client 195.154.80.205:35084] AH00126: Invalid URI in request GET HTTP/1.1 HTTP/1.1
+[Fri Nov 06 15:49:11.494945 2015] [core:error] [pid 38623] [client 195.154.80.205:34482] AH00126: Invalid URI in request GET HTTP/1.1 HTTP/1.1
+[Sat Nov 07 00:00:22.821261 2015] [:error] [pid 49910] [client 62.210.88.201:43927] script '/home/jdmnr9/jasonmcquinn.cloudapp.net/public_html/httptest.php' not found or unable to stat
+[Sat Nov 07 19:59:54.718962 2015] [:error] [pid 49969] [client 62.210.88.201:48501] script '/home/jdmnr9/jasonmcquinn.cloudapp.net/public_html/httptest.php' not found or unable to stat
+[Sun Nov 08 03:36:25.823930 2015] [:error] [pid 50011] [client 62.210.88.201:53074] script '/home/jdmnr9/jasonmcquinn.cloudapp.net/public_html/httptest.php' not found or unable to stat
+[Mon Nov 09 04:49:45.613632 2015] [:error] [pid 53142] [client 91.196.50.33:57716] script '/home/jdmnr9/jasonmcquinn.cloudapp.net/public_html/testproxy.php' not found or unable to stat
+[Thu Nov 12 01:54:29.594751 2015] [:error] [pid 53145] [client 62.210.88.201:41157] script '/home/jdmnr9/jasonmcquinn.cloudapp.net/public_html/httptest.php' not found or unable to stat
+[Thu Nov 12 08:32:54.518673 2015] [:error] [pid 53144] [client 185.25.151.159:52280] script '/home/jdmnr9/jasonmcquinn.cloudapp.net/public_html/testproxy.php' not found or unable to stat
+[Thu Nov 12 22:04:32.802012 2015] [:error] [pid 53142] [client 91.196.50.33:49821] script '/home/jdmnr9/jasonmcquinn.cloudapp.net/public_html/testproxy.php' not found or unable to stat
+[Mon Nov 16 08:15:00.071451 2015] [:error] [pid 7012] [client 185.25.151.159:59365] script '/home/jdmnr9/jasonmcquinn.cloudapp.net/public_html/testproxy.php' not found or unable to stat
+[Mon Nov 16 19:34:51.903359 2015] [:error] [pid 7010] [client 91.196.50.33:50461] script '/home/jdmnr9/jasonmcquinn.cloudapp.net/public_html/testproxy.php' not found or unable to stat
+[Tue Nov 17 01:37:20.747877 2015] [:error] [pid 7115] [client 104.128.144.131:34987] script '/home/jdmnr9/jasonmcquinn.cloudapp.net/public_html/redirect.php' not found or unable to stat
+[Thu Nov 19 22:50:30.302384 2015] [:error] [pid 7010] [client 185.25.151.159:50200] script '/home/jdmnr9/jasonmcquinn.cloudapp.net/public_html/testproxy.php' not found or unable to stat
